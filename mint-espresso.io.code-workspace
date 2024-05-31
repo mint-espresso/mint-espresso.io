@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "commentmint",
+			"path": "../commentmint"
+		}
+	],
+	"settings": {}
+}
